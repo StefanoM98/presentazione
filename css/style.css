@@ -1,0 +1,14 @@
+.result{
+    margin: 2rem auto ;
+    padding: 1rem 0;
+    border: 2px solid rgb(183, 183, 183);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+input[type=text]{
+    width: 50px;
+    margin: 0 1rem;
+}
